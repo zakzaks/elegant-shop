@@ -1,4 +1,4 @@
-import { useState, useReducer, createContext } from "react";
+import { useReducer, createContext } from "react";
 
 import { DUMMY_PRODUCTS } from "../dummy-products";
 
